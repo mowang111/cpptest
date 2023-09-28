@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="scalar_test.cpp" />
     <ClCompile Include="smart_ptr.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="__stdcall.cpp" />

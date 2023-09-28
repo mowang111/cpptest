@@ -1,7 +1,7 @@
 #include "pch.h"
-#include "../cpptest/test.cpp"
-// 定义一个测试用例（Test Case）
-TEST(MyTest, test) {
+#include "../cpptest/scalar_test.cpp"
+// 测试scalar_test
+TEST(SCALAR, test) {
     test();
 }
 
